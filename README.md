@@ -2,7 +2,6 @@
 - 🇧🇷
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: souzamvictor@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everything I do is for buying cars and traveling around the world 
