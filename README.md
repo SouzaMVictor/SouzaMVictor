@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: souzamvictor@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cars
 
 <!---
 SouzaMVictor/SouzaMVictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
