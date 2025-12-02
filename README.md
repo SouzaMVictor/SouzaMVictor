@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouzaMVictor
 - 🇧🇷
-- Dev at Corebiz
+- Front-end Developer at Corebiz
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: souzamvictor@gmail.com
