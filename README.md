@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SouzaMVictor
 - 🇧🇷
 - Front-end Developer at Corebiz
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Becoming a Data Scientist
 - 🌱 I’m currently learning React
 - 📫 How to reach me: souzamvictor@gmail.com
 - 😄 Pronouns: He/Him
