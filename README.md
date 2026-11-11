@@ -2,7 +2,7 @@
 - 🇧🇷
 - Front-end Developer at Corebiz
 - 👀 I’m interested in Becoming a Data Scientist
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: souzamvictor@gmail.com
 - 😄 Pronouns: He/Him
 
